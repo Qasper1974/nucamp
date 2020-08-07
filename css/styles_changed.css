@@ -4,7 +4,7 @@ body {
 }
 h1, h2, h3 {
     font-family: "Lobster", cursive;
-    color: lightsalmon;
+    color: orange;
 }
 p {
     font-family: "Open Sans", sans-serif, cursive;
@@ -13,11 +13,11 @@ p {
 }
 
 .site-footer {
-    background-image: linear-gradient(to left, #055c10, #31b616, #93f090);
+    background-color: orange;
     padding: 20px 0;
 }
 .site-footer h5 {
-    color: lightsalmon;
+    color: black;
 }
 .jumbotron {
     margin: 0;
