@@ -1,0 +1,51 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-image: url(img/forest-path-in-spring-with-bright-green-trees-matthias-hauser.jpg);
+}
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+    color: lightsalmon;
+}
+p {
+    font-family: "Open Sans", sans-serif, cursive;
+    color: white;
+    font-style: cursive;
+}
+
+.site-footer {
+    background-image: linear-gradient(to left, #055c10, #31b616, #93f090);
+    padding: 20px 0;
+}
+.site-footer h5 {
+    color: lightsalmon;
+}
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #055c10, #31b616, #93f090);
+    color: white;
+}
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.navbar {
+    background-color: darkgreen;
+
+}
+#navbarList a {
+    color: whitesmoke;
+
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.carousel {
+    border: solid #5637DD;
+}
+#header a {
+    background-color: indianred;
+    color: lawngreen;
+}
